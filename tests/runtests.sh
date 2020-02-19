@@ -1,5 +1,5 @@
 #!/bin/sh
 
-export PYTHONPATH=../
+export PYTHONPATH=../src
 
 nosetests
